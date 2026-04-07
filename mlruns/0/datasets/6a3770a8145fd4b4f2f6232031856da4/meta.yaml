@@ -1,0 +1,14 @@
+digest: fbf2e4bd
+name: dataset
+profile: '{"num_rows": 712, "num_elements": 7832}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "PassengerId", "required": true},
+  {"type": "long", "name": "Pclass", "required": true}, {"type": "double", "name":
+  "Age", "required": true}, {"type": "long", "name": "SibSp", "required": true}, {"type":
+  "long", "name": "Parch", "required": true}, {"type": "double", "name": "Fare", "required":
+  true}, {"type": "boolean", "name": "Sex_female", "required": true}, {"type": "boolean",
+  "name": "Sex_male", "required": true}, {"type": "boolean", "name": "Embarked_C",
+  "required": true}, {"type": "boolean", "name": "Embarked_Q", "required": true},
+  {"type": "boolean", "name": "Embarked_S", "required": true}]}'
+source: '{"tags": {"mlflow.user": "User", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

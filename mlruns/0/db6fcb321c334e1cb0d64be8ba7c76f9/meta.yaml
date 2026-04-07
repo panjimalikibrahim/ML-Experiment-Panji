@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/db6fcb321c334e1cb0d64be8ba7c76f9/artifacts
+end_time: 1775320873576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db6fcb321c334e1cb0d64be8ba7c76f9
+run_name: dashing-panda-315
+run_uuid: db6fcb321c334e1cb0d64be8ba7c76f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775320862792
+status: 3
+tags: []
+user_id: User

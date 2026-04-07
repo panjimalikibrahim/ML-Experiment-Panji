@@ -5,6 +5,7 @@ from sklearn.metrics import accuracy_score
 
 import mlflow
 import mlflow.sklearn
+mlflow.sklearn.autolog()
 
 # set MLflow ke UI
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
